@@ -726,7 +726,7 @@
   (gr_text "TX" (at 157.44 87.19 90) (layer "F.SilkS") (tstamp 383cf1fa-06ad-40a3-941a-103ef7550742)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "Arduino-Thermal\nboard rev2" (at 129.21 61.09) (layer "F.SilkS") (tstamp 40ff8b12-52f2-4f5f-9283-55c2fc5c022b)
+  (gr_text "Arduino-Thermal\nboard rev 2.0" (at 129.21 61.09) (layer "F.SilkS") (tstamp 40ff8b12-52f2-4f5f-9283-55c2fc5c022b)
     (effects (font (size 1.5 1.75) (thickness 0.375) italic))
   )
   (gr_text "D12" (at 142.26 86.75 90) (layer "F.SilkS") (tstamp 525d34ac-c571-44a8-ad51-ff08ed082396)
